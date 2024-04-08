@@ -9,15 +9,26 @@
   font-weight: 900;
 }
 .content_div{
-  margin-top: 12vh;
   height:80vh;
-  background-color: aquamarine;
   background-image: url('https://www.akkenna.com/static/media/Banner.b0f60952d22ef5c96cb0.png');
   background-size: cover; 
-  background-position: center;
   text-align: center;
   justify-content: center;
   color: azure;
+}
+.content_writing{
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.component_card{
+  margin-top: -7%;
+}
+.cont{
+  background-color: #F7F6FF;
+  padding: 1vh;
+  border-radius: 15px;
 }
 .span_in_footer{
   color:blue;
@@ -33,5 +44,119 @@
 .bg_color_bule{
   background-color:#1B013D;
   color: whitesmoke;
+}
+
+
+
+.card_hover_msg1:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide {
+  display: none;
+}
+    
+.card_hover_msg1:hover + .hide {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg2:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide2 {
+  display: none;
+}
+    
+.card_hover_msg2:hover + .hide2 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg3:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide3 {
+  display: none;
+}
+    
+.card_hover_msg3:hover + .hide3 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg4:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide4 {
+  display: none;
+}
+    
+.card_hover_msg4:hover + .hide4 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg5:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide5 {
+  display: none;
+}
+    
+.card_hover_msg5:hover + .hide5 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg6:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide6 {
+  display: none;
+}
+    
+.card_hover_msg6:hover + .hide6 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg7:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide7 {
+  display: none;
+}
+    
+.card_hover_msg7:hover + .hide7 {
+  display: block;
+  color: red;
+}
+
+.card_hover_msg8:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.hide8 {
+  display: none;
+}
+    
+.card_hover_msg8:hover + .hide8 {
+  display: block;
+  color: red;
 }
 
