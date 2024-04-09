@@ -45,3 +45,45 @@
   background-color:#1B013D;
   color: whitesmoke;
 }
+
+
+
+.card_hover_msg1:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg2:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg3:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg4:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg5:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg6:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg7:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
+
+.card_hover_msg8:hover{
+  border-bottom: 3px solid blue;
+font-size: large;
+}
